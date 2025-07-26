@@ -8,7 +8,7 @@ A distilled, actionable version of Emily Kramer’s “How to create a more effe
 
 1. [3-Step Checklist for an Effective Homepage](#3-step-checklist-for-an-effective-homepage)  
 2. [How I Used This at Latenode](#how-i-used-this-at-latenode)  
-3. [Full Article (Markdown)](./_insights/2022-11-28-how-to-create-a-more-effective-homepage.md)  
+3. [Full Article (Markdown)](./_insights/2025-07-24-how-to-create-a-more-effective-homepage.md)  
 
 ---
 
@@ -23,7 +23,7 @@ A distilled, actionable version of Emily Kramer’s “How to create a more effe
 3. **Proof Points in Every Block**  
    Support each benefit with data, screenshots, GIFs, or customer quotes. Real evidence builds trust and compels action.
 
-👉 [Read the full, detailed article →](_insights/2022-11-28-how-to-create-a-more-effective-homepage.md)
+👉 [Read the full, detailed article →](_insights/2025-07-24-how-to-create-a-more-effective-homepage.md)
 
 ---
 
